@@ -12,5 +12,4 @@ class Dog
     @@all
   end
   
-  def save
 end
